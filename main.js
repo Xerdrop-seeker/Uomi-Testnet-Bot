@@ -6,7 +6,7 @@ const { BigNumber } = require('@ethersproject/bignumber');
 const { Percent, CurrencyAmount, Token, TradeType } = require('@uniswap/sdk-core');
 const { SwapRouter } = require('@uniswap/universal-router-sdk');
 
-// --- Configuration ---
+
 const RPC_URL = "https://finney.uomi.ai";
 const CHAIN_ID = 4386;
 
