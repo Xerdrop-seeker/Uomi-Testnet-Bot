@@ -10,7 +10,7 @@ const { SwapRouter } = require('@uniswap/universal-router-sdk');
 const RPC_URL = "https://finney.uomi.ai";
 const CHAIN_ID = 4386;
 
-// Contract Addresses
+// Contract
 const ROUTER_ADDRESS = "0x197EEAd5Fe3DB82c4Cd55C5752Bc87AEdE11f230";
 const LIQUIDITY_MANAGER_ADDRESS = "0x906515Dc7c32ab887C8B8Dce6463ac3a7816Af38";
 
