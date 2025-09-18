@@ -1,7 +1,7 @@
 
 # UOMI-TeESTNET-Auto-Bot
 
-## Features
+## Features.
 
 - Automated Trading: Execute automated swaps on UOMI testnet.
 - Multi-Wallet Management: Support for multiple wallet addresses.
